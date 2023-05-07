@@ -26,3 +26,17 @@ h2 {
     float: left;
     font-size: 280%;
 }
+
+/* Navigation Links */
+
+#menu {
+    float: right;
+}
+
+#menu li {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+    margin-right: 30px;
+    display: inline-block;
+}
